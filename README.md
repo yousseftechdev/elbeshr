@@ -37,9 +37,3 @@ To connect to Supabase later, replace CRUD operations in `app.js` with:
 - `from('users')`, `from('products')`, `from('carts')`
 - optional `orders` table for checkout records
 
-
-## Supabase setup
-
-A full step-by-step setup (schema + RLS + integration flow) is available in:
-
-- [`SUPABASE_SETUP.md`](./SUPABASE_SETUP.md)
